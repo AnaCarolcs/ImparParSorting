@@ -28,7 +28,6 @@ Dados os valores de _𝑁_ e dos elementos da sequência, ordene-a utilizando o 
 </p>
 
 - Demais screenshots estão na sessão de Uso
-- O Video de apresentação está na pasta "Media" desse repositório
 
 ## Instalação 
 
